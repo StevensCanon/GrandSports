@@ -1,0 +1,155 @@
+.logo{
+    width: 90px;
+    height: 95px;
+}
+
+.custom-list-style {
+    margin-top: 20px;
+  }
+
+  .custom-list-style li {
+    text-decoration: none;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+footer h5 {
+    color: #048992; 
+    font-size: 22px; 
+    text-align: center;
+}
+
+.text-white{
+    text-decoration: none;
+}
+
+.Inicio{
+    padding-top: 120px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.Main{
+   padding: 15px;
+   text-align: center;
+}
+
+.my-carousel-img{
+    height: 500px;
+    width: max-content;
+}
+
+.carousel-inner{
+    text-align: center;
+    padding: 15px;
+}
+
+.carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    filter: invert(100%);
+  }
+
+/* cartas de promocion*/
+  .card {
+    float: left;  
+    margin-left: 50px;
+    height: 100px;
+    width: 35rem;
+    margin-bottom: 60px;
+}
+.card-img-top{
+    width: auto;
+height: 300px ;
+}
+
+
+
+/* cartas de catalogo*/
+.card-img{
+    width: auto;
+    height: 500px;
+}
+
+.card-title  {
+    text-align: center;
+}
+
+.cards h5{
+    color: rgb(255, 255, 255);
+    background-color: #091318;
+    padding: 4px;
+}
+
+.cards{
+    border: 1px solid #0f222c;
+}
+
+.col{
+    padding-top: 30px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px; 
+}
+
+.card-grilla {
+    border: 1px solid #ebebeb;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.imagen-grilla{
+    width: 100%;
+    height: 500px;
+}
+
+.style{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+.Portada{
+    width: 100%;
+    height: 800px;   
+}
+
+.index{
+    padding-bottom: 20px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.grid-container{
+    margin-bottom: 50px;
+}
+
+#contactForm {
+    margin-bottom: 20px; 
+    margin: 4px;
+    font-weight: bold; 
+  }
+
+   #contactForm .form-control{
+    background-color: rgb(183, 187, 185);
+}
+
+    #contactForm .form-select{
+        background-color: rgb(183, 187, 185);
+    }
+
+    #contactForm .form-label{
+        color: #ffffff;
+    }
+
+    .texto{
+        padding-top: 15px;
+        color: #ffffff;
+    }
+
+    #contactForm .boton-envio{
+        margin-bottom: 100px;
+        background-color: rgb(255, 255, 255);
+        color:#36002d;
+        font-weight: bold;
+    }
